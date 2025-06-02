@@ -1,6 +1,8 @@
 
 # Simulador de Risco de Enchentes
-# Autores: João da Silva (RM: 123456), Maria Souza (RM: 654321)
+# Autores: - Paulo Cesar de Govea Junior - (RM:566034)
+#- Guilherme Vilela Perez - (RM:564422)
+#- Gustavo Panham Dourado - (RM:563904)
 4
 def ler_float(mensagem):
     """Solicita um número decimal do usuário com validação."""
